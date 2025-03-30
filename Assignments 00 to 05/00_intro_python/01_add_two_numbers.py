@@ -1,4 +1,4 @@
-# Problem Statement
+## Problem Statement
 # Write a Python program that takes two integer inputs from the user and calculates their sum. 
 # The program should perform the following tasks:
 
