@@ -20,7 +20,7 @@
 def main():
     """Convert the temperature from Fahrenheit to Celsius."""
     #prompt the user to enter thwe temperatur in fahrenheit
-    degrees_fahrenheit = input("Enter the temperature in fahrenheit:")
+    degrees_fahrenheit = input("\033[1;3m Enter the temperature in fahrenheit: \033[0m")
     #convert the input to a float
     degrees_fahrenheit = float(degrees_fahrenheit)
     #calculate the temperature in celsius

@@ -20,6 +20,7 @@
 
 def main():
     #store the age of each person into a variable
+    
     anthon_age = 21
     beth_age  = anthon_age +6
     chen_age = beth_age + 20

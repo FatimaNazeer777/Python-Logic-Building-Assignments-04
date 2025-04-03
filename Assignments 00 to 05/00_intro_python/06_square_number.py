@@ -12,7 +12,7 @@
 
 def main():
     #prompt the user to enter a number
-    number  =  input("Enter a number to see its square:")
+    number  =  input("\033[1;3m Enter a number to see its square: \033[0m")
     #convert the input to a float
     number = float(number)
 

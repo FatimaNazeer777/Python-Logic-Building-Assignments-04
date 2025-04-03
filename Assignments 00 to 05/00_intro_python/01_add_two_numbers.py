@@ -17,7 +17,6 @@
 # The provided solution demonstrates a working implementation of this problem, where the main()
 #  function guides the user through the process of entering two numbers and displays their sum.
 
-
 # Solution
 
 def main():

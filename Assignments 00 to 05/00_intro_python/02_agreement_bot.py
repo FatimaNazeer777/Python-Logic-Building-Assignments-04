@@ -11,7 +11,7 @@
 
 def main():
     #Prompt the user to enter their favorite animal
-    animal = input("Whats is your favorite  animal?")
+    animal = input("\033[1;3m Whats is your favorite  animal? \033[0m")
     #Print the response
     print(f"My favorite animal is also {animal}!")
 
